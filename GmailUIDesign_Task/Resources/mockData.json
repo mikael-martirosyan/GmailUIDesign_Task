@@ -1,0 +1,45 @@
+[
+    {
+        "sender": "John Smith",
+        "title": "Test title",
+        "message": "Hello! How are you? asdasdjbkcjbaskdjbclaksjbdclkajsbdlcjabsldcjbaslcjbsadcbakjbc",
+        "image": "J",
+        "date": "04.07.2023",
+        "isMarked": false,
+        "isImportant": false,
+        "hasBeenReaded": false
+    },
+    
+    {
+        "sender": "Lina Brown",
+        "title": "Test title 2",
+        "message": "Hello! How are you?",
+        "image": "L",
+        "date": "01.07.2023",
+        "isMarked": false,
+        "isImportant": false,
+        "hasBeenReaded": false
+    },
+    
+    {
+        "sender": "Matthew Wonder",
+        "title": "Test title 3",
+        "message": "Hello! How are you?",
+        "image": "M",
+        "date": "30.06.2023",
+        "isMarked": false,
+        "isImportant": false,
+        "hasBeenReaded": true
+    },
+    
+    {
+        "sender": "Bobby Belinsky",
+        "title": "Test title 4",
+        "message": "Hello! How are you?",
+        "image": "B",
+        "date": "25.06.2023",
+        "isMarked": false,
+        "isImportant": false,
+        "hasBeenReaded": false
+    }
+]
